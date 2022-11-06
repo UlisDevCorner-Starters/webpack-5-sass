@@ -1,20 +1,24 @@
 ![Webpack 5 SASS Starter](./readme/images/webpack-5-sass-starter.jpg)
 
 ## Last Updated  
-2022-01-04
+2022-11-06
+
+I try to keep it up to date. I've a video if you want to know how to update by yourself if I'm not fast enough 😊  
+
+[**YouTube**: Updating NPM Packages to the latest Version](https://youtu.be/GAvu7Jg2B9o)
 
 ## Versions  
 **NodeJS**: 16.15.0
 
-**Webpack**: 5.65.0  
+**Webpack**: 5.74.0  
 **HTML Webpack Plugin**: 5.5.0  
-**Babel Core**: 7.16.7  
-**SASS**: 1.45.2  
+**Babel Core**: 7.20.2  
+**SASS**: 1.56.0  
 
 ## Intro
 This repo is just a starter for my videos on my YouTube Channel.   
 
-[**YouTube**: UlisDevCorner](https://www.youtube.com/channel/UCaBQyc2U5kP_NUwrgmXQcFw)
+[**YouTube**: UlisDevCorner](https://www.youtube.com/@ulisdevcorner)
 
 ## GitHub Repo of UlisDevCorner
 To find the repo of the videos I show on my YouTbe channel please visit this link.
